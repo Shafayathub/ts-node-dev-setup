@@ -16,7 +16,7 @@ To get started with this project setup, follow these steps:
 1. Clone the repository:
 
    ```bash
-   bashCopy code
+
    git clone https://github.com/Shafayathub/ts-node-dev-setup.git
 
    ```
@@ -24,7 +24,7 @@ To get started with this project setup, follow these steps:
 2. Navigate into the project directory:
 
    ```bash
-   bashCopy code
+
    cd ts-node-dev-setup
 
    ```
@@ -34,7 +34,7 @@ To get started with this project setup, follow these steps:
    If you're using npm:
 
    ```bash
-   bashCopy code
+
    npm install
 
    ```
@@ -42,7 +42,7 @@ To get started with this project setup, follow these steps:
    If you're using yarn:
 
    ```bash
-   bashCopy code
+
    yarn install
 
    ```
@@ -52,7 +52,7 @@ To get started with this project setup, follow these steps:
    If you're using npm:
 
    ```bash
-   bashCopy code
+
    npm run dev
 
    ```
@@ -60,7 +60,7 @@ To get started with this project setup, follow these steps:
    If you're using yarn:
 
    ```bash
-   bashCopy code
+
    yarn dev
 
    ```
